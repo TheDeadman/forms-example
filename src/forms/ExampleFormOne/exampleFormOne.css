@@ -1,0 +1,10 @@
+.example-form {
+    display: flex;
+    flex-direction: column;
+    width: 600px;
+}
+
+.example-form>div {
+    margin: 20px 0 20px 0;
+    width: 100%;
+}
